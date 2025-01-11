@@ -8,11 +8,11 @@
 Amante da área da tecnologia, principalmente nas área de desenvolvimento web, solução de problemas técnicos e de hardware. ⚙️💻👨‍💻
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MicaelTek&show_icons=true&theme=radical"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MicaelTek&show_icons=true&theme=nightowl&layout=compact"/> 
   <br>
-  <img src="https://streak-stats.demolab.com/?user=MicaelTek&theme=radical">
+  <img src="https://streak-stats.demolab.com?user=MicaelTek&theme=nightowl&layout=compact" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelTek&theme=radical&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelTek&theme=nightowl&layout=compact"/>
 </div>
 
 <!-- ## 🛠️ Alguns dos meus principais projetos
@@ -31,7 +31,7 @@ Amante da área da tecnologia, principalmente nas área de desenvolvimento web, 
  <img align="center" alt="Micael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Micael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Micael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Micael-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Micael-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  <img align="center" alt="Micael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <!-- <img align="center" alt="Micael-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> -->
   <img align="center" alt="Micael-ViteJs" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"> -->
