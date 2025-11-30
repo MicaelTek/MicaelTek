@@ -14,10 +14,8 @@
 > 🚀 Amante da tecnologia, focado no desenvolvimento de interfaces modernas e responsivas. Apaixonado por solução de problemas técnicos e hardware.
 
 <div align="center">
-  <a href="https://github.com/MicaelTek">
-    <img src="https://github-readme-stats.vercel.app/api?username=MicaelTek&show_icons=true&theme=nightowl&layout=compact&hide_border=true" alt="MicaelTek Stats" height="150"/>
-  </a>
-    ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelTek&layout=compact&theme=nightowl)
+  <img src="https://github-readme-stats.vercel.app/api?username=MicaelTek&show_icons=true&theme=nightowl&layout=compact&hide_border=true" height="160" alt="MicaelTek Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelTek&layout=compact&theme=nightowl&hide_border=true" height="160" alt="Top Langs" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=MicaelTek&theme=nightowl&layout=compact&hide_border=true" alt="GitHub Streak" />
 </div>
