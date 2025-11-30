@@ -11,7 +11,7 @@
 
 <br/>
 
-> 🚀 Amante da tecnologia, focado no desenvolvimento de interfaces modernas e responsivas. Apaixonado por solução de problemas técnicos e hardware.
+> 🚀 Foco meus estudos no Front-End e uso a linguagem de programação **JavaScript** como minha principal, atualmente estudando **React**.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MicaelTek&theme=nightowl&layout=compact&hide_border=true" alt="GitHub Streak" />
