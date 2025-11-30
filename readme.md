@@ -14,10 +14,6 @@
 > 🚀 Amante da tecnologia, focado no desenvolvimento de interfaces modernas e responsivas. Apaixonado por solução de problemas técnicos e hardware.
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicaelTek&theme=night_owl" alt="MicaelTek Stats" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MicaelTek&theme=night_owl" alt="Top Langs" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=MicaelTek&theme=nightowl&layout=compact&hide_border=true" alt="GitHub Streak" />
 </div>
 
