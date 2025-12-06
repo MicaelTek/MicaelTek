@@ -16,7 +16,7 @@
 > 🛠️ Minha especialidade é criar soluções que entregam valor real ao negócio, utilizando **JavaScript/React** no Front-end e **Python** no Back-end, além de ferramentas de automação e IA.
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MicaelTek&theme=dark&hide_border=true&locale=pt_BR&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MicaelTek&theme=dark&hide_border=false&locale=pt_BR&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
 </div>
 
 ## 🛠️ Stack Tecnológico
